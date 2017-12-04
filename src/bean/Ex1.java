@@ -6,6 +6,7 @@ public class Ex1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("xin chao the gioi");
+		System.out.println("Toi la Truong Cong Hoai Bao");
 
 	}
 
